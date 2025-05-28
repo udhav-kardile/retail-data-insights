@@ -10,7 +10,7 @@ This project dives deep into the analysis of an **online retail dataset** using 
 ## 📁 Project Structure
 
 - `retail_analysis.ipynb` – Full Jupyter notebook with step-by-step analysis
-- `data/` – (Optional) Folder for your raw/cleaned data
+- `data/` – Folder for your raw/cleaned data
 - `README.md` – Project overview
 
 ---
